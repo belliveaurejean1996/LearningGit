@@ -1,6 +1,6 @@
 # LearningGit
 
-This is a simple cheat sheet on how to use git and github as a beginner. I'm also a beginner so if you somwone refers to this repo, please take the info at your own risk. I'm not an expert.
+This is a simple cheat sheet on how to use git and github as a beginner. I'm also a beginner so if you refer to this repository, please take the info at your own risk, I'm not an expert.
 
 ## Cloning
 
@@ -56,6 +56,8 @@ To merge the `NewBranch` to the `main/master` branch use the following command :
 ```git 
 
 ```
+
+> Note : If the merged project affects some other changes in the new version Git will ask what you what to keep. Ether keep your changes.
 
 This is very usefull since every develloper can have there own branch and so changes without impacting the main project.
 
