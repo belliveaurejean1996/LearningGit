@@ -1,5 +1,7 @@
 # LearningGit
 
+This change is made on my local computer
+
 This is a simple cheat sheet on how to use git and github as a beginner. I'm also a beginner so if you refer to this repository, please take the info at your own risk, I'm not an expert.
 
 > Note : If you are using VS code or VS Git is directly integrated in the software, which simplifies the step. However all the same steps are required.
